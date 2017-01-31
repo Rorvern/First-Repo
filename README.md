@@ -1,3 +1,2 @@
 # First-Repo
-I like to code
-There are existences
+I like to code becuz coding iz funz :D
